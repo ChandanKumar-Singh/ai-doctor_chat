@@ -1,0 +1,9 @@
+langchain
+langchain-community 
+langchain-openai  # -U  for latest one
+openai
+python-dotenv
+fastapi
+uvicorn
+pydantic
+python-multipart  # for attachments

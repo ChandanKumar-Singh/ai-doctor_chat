@@ -1,0 +1,11 @@
+2025-08-06 00:56:12,813 - httpx - INFO - HTTP Request: POST http://192.168.1.100:11434/api/chat "HTTP/1.1 200 OK"
+2025-08-06 00:59:01,977 - httpx - INFO - HTTP Request: POST http://192.168.1.100:11434/api/chat "HTTP/1.1 200 OK"
+2025-08-06 01:01:15,334 - httpx - INFO - HTTP Request: POST http://192.168.1.100:11434/api/chat "HTTP/1.1 200 OK"
+2025-08-06 01:04:18,452 - httpx - INFO - HTTP Request: POST http://192.168.1.100:11434/api/chat "HTTP/1.1 200 OK"
+2025-08-06 01:09:44,179 - httpx - INFO - HTTP Request: POST http://192.168.1.100:11434/api/chat "HTTP/1.1 200 OK"
+2025-08-06 01:10:30,460 - httpx - INFO - HTTP Request: POST http://192.168.1.100:11434/api/chat "HTTP/1.1 200 OK"
+2025-08-06 01:10:41,193 - httpx - INFO - HTTP Request: POST http://192.168.1.100:11434/api/chat "HTTP/1.1 200 OK"
+2025-08-06 01:10:47,690 - httpx - INFO - HTTP Request: POST http://192.168.1.100:11434/api/chat "HTTP/1.1 200 OK"
+2025-08-06 01:11:22,693 - root - ERROR - Error generating doctor reply: 500: Invalid response format from AI model
+2025-08-08 00:36:10,962 - httpx - INFO - HTTP Request: POST http://192.168.1.100:11434/api/chat "HTTP/1.1 200 OK"
+2025-08-08 00:37:02,151 - httpx - INFO - HTTP Request: POST http://192.168.1.100:11434/api/chat "HTTP/1.1 200 OK"
